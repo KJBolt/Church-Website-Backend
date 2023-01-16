@@ -11,7 +11,7 @@ import {
     likeVideo,
     getVideos,
     getVideoStats
-} from '../controllers/VideoController.js';
+} from '../Controllers/VideoController.js';
 
 
 

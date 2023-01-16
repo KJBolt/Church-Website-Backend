@@ -1,4 +1,4 @@
-import Video from '../model/Video.js';
+import Video from '../Model/Video.js';
 import User from '../Model/User.js';
 
 

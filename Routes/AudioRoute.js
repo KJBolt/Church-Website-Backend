@@ -1,5 +1,5 @@
 import express from 'express';
-import { addAudio, deleteAudio, getAudio, getAudios, getRandomAudios, updateAudio } from '../controllers/AudioController.js';
+import { addAudio, deleteAudio, getAudio, getAudios, getRandomAudios, updateAudio } from '../Controllers/AudioController.js';
 import { verifyToken } from '../verifyToken.js';
 
 

@@ -1,5 +1,5 @@
-import Audio from "../model/Audio.js";
-import User from "../model/User.js"
+import Audio from "../Model/Audio.js";
+import User from "../Model/User.js"
 
 
 export const addAudio = async (req, res) => {
